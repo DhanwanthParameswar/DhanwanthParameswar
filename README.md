@@ -8,5 +8,5 @@ Currently at UB, I'm building a strong foundation in both hardware and software.
 
 I'm particularly interested in the startup world and am excited by the prospect of building innovative projects from the ground up. I'm always open to discussing new projects and opportunities—feel free to reach out!
 
-Thanks for visiting,
+Thanks for visiting,\
 Dhanwanth Parameswar
