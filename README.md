@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-My name is **Dhanwanth**, a first-year Computer Engineering student at the University at Buffalo, with a passion for building technology that's powerful and intuitive.
+My name is **Dhanwanth**, a first-year Computer Engineering student minoring in Robotics at the University at Buffalo, with a passion for building technology that's powerful and intuitive.
 
 My journey into tech began from a curiosity about how the digital tools I used every day actually worked. This notion led me down a rabbit hole of automating parts of my life and putting websites on the web. I was hooked on the feeling of creating something functional from nothing but code, which naturally led me to pursue Computer Engineering.
 
